@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jsubber", "Jsubber\Jsubber.csproj", "{0AB40B35-AFB8-4FFB-8B56-5784DC9EF7EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEDriverLib", "IEDriverLib\IEDriverLib.csproj", "{4D2F8410-9636-4253-A931-79298234AFAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsubberLib", "JsubberLib\JsubberLib.csproj", "{D66DA9C1-872E-4C9B-A176-F71F7CA8CB54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsubberConsole", "JsubberConsole\JsubberConsole.csproj", "{A4680700-610A-4BAE-9084-C2DF8182E593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AB40B35-AFB8-4FFB-8B56-5784DC9EF7EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB40B35-AFB8-4FFB-8B56-5784DC9EF7EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB40B35-AFB8-4FFB-8B56-5784DC9EF7EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB40B35-AFB8-4FFB-8B56-5784DC9EF7EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D2F8410-9636-4253-A931-79298234AFAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2F8410-9636-4253-A931-79298234AFAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2F8410-9636-4253-A931-79298234AFAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2F8410-9636-4253-A931-79298234AFAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D66DA9C1-872E-4C9B-A176-F71F7CA8CB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66DA9C1-872E-4C9B-A176-F71F7CA8CB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66DA9C1-872E-4C9B-A176-F71F7CA8CB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66DA9C1-872E-4C9B-A176-F71F7CA8CB54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4680700-610A-4BAE-9084-C2DF8182E593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4680700-610A-4BAE-9084-C2DF8182E593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4680700-610A-4BAE-9084-C2DF8182E593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4680700-610A-4BAE-9084-C2DF8182E593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
