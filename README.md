@@ -1,2 +1,2 @@
 # Jsubber
-Jsubber
+Internet Explorer browser automation.
